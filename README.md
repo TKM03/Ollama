@@ -12,7 +12,7 @@ This project allows you to run a **free, local Generative AI model** using **Oll
 ## 📂 Project Structure
 ```
 local-ai-ollama/
-│── Ollama.ipynb   # Jupyter Notebook for AI text generation
+│── Ollama.ipynb                 # Jupyter Notebook for AI text generation
 │── README.md                    # Project documentation
 ```
 
